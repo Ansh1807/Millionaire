@@ -1,0 +1,247 @@
+
+════════════════════════════════════════════════════════════════════════════════
+                         WHO WANTS TO BE A MILLIONAIRE
+════════════════════════════════════════════════════════════════════════════════
+
+
+Welcome to the Millionaire game!
+
+Game Rules:
+  • Answer 15 questions correctly to win $1,000,000
+  • Checkpoints at questions 5, 10, and 15 (safety nets)
+  • Use lifelines: 50/50, Phone a Friend, Ask the Audience
+  • You can walk away at any time by typing 'WALK'
+  • Wrong answer before a checkpoint means you lose!
+
+Lifelines:
+  • 50/50: Eliminates two wrong answers
+  • Phone a Friend: Get a friend's suggestion
+  • Ask the Audience: See audience poll results
+
+╔════════════════════════════════════════════╗
+║         PRIZE LADDER                       ║
+╠════════════════════════════════════════════╣
+║ Level 15: $1,000,000      ✓ ║
+║ Level 14: $500,000          ║
+║ Level 13: $250,000          ║
+║ Level 12: $125,000          ║
+║ Level 11: $64,000           ║
+║ Level 10: $32,000         ✓ ║
+║ Level  9: $16,000           ║
+║ Level  8: $8,000            ║
+║ Level  7: $4,000            ║
+║ Level  6: $2,000            ║
+║ Level  5: $1,000          ✓ ║
+║ Level  4: $500              ║
+║ Level  3: $300              ║
+║ Level  2: $200              ║
+║ Level  1: $100              ║
+╚════════════════════════════════════════════╝
+
+Press ENTER to start the game...
+╔════════════════════════════════════════════╗
+║         PRIZE LADDER                       ║
+╠════════════════════════════════════════════╣
+║ Level 15: $1,000,000      ✓ ║
+║ Level 14: $500,000          ║
+║ Level 13: $250,000          ║
+║ Level 12: $125,000          ║
+║ Level 11: $64,000           ║
+║ Level 10: $32,000         ✓ ║
+║ Level  9: $16,000           ║
+║ Level  8: $8,000            ║
+║ Level  7: $4,000            ║
+║ Level  6: $2,000            ║
+║ Level  5: $1,000          ✓ ║
+║ Level  4: $500              ║
+║ Level  3: $300              ║
+║ Level  2: $200              ║
+║ Level  1: $100              ║
+╚════════════════════════════════════════════╝
+
+
+════════════════════════════════════════════════════════════════════════════════
+                                   QUESTION 1
+════════════════════════════════════════════════════════════════════════════════
+
+Prize: $100
+
+
+Question: What is the capital of France?
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                           OPTIONS                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Option A: Paris                                                        ║
+║ Option B: London                                                       ║
+║ Option C: Berlin                                                       ║
+║ Option D: Madrid                                                       ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Available Lifelines: 50/50, Phone a Friend, Ask the Audience
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): 50/500
+Invalid input! Please enter a valid option or command.
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): 50/50
+Invalid input! Please enter a valid option or command.
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): LIFELINE
+
+Available lifelines:
+  1. 50/50
+  2. Phone a Friend
+  3. Ask the Audience
+
+Enter lifeline number or name: 1
+
+============================================================
+50/50 LIFELINE USED!
+Two incorrect answers have been removed.
+============================================================
+
+
+Remaining options:
+╔═══════════════════════════════════════════════════════════════════╗
+║                           OPTIONS                                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Option A: Paris                                                        ║
+║ Option D: Madrid                                                       ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): A
+
+────────────────────────────────────────────────────────────────────────────────
+
+✓ CORRECT ANSWER!
+You've won: $100
+────────────────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════════════╗
+║         PRIZE LADDER                       ║
+╠════════════════════════════════════════════╣
+║ Level 15: $1,000,000      ✓ ║
+║ Level 14: $500,000          ║
+║ Level 13: $250,000          ║
+║ Level 12: $125,000          ║
+║ Level 11: $64,000           ║
+║ Level 10: $32,000         ✓ ║
+║ Level  9: $16,000           ║
+║ Level  8: $8,000            ║
+║ Level  7: $4,000            ║
+║ Level  6: $2,000            ║
+║ Level  5: $1,000          ✓ ║
+║ Level  4: $500              ║
+║ Level  3: $300              ║
+║ Level  2: $200              ║
+║ Level  1: $100              ║
+╚════════════════════════════════════════════╝
+
+
+════════════════════════════════════════════════════════════════════════════════
+                                   QUESTION 2
+════════════════════════════════════════════════════════════════════════════════
+
+Prize: $200
+
+
+Question: Which planet is known as the Red Planet?
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                           OPTIONS                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
+║ Option A: Jupiter                                                      ║
+║ Option B: Saturn                                                       ║
+║ Option C: Mars                                                         ║
+║ Option D: Earth                                                        ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Available Lifelines: Phone a Friend, Ask the Audience
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): LIFELINE
+
+Available lifelines:
+  1. Phone a Friend
+  2. Ask the Audience
+
+Enter lifeline number or name: 2
+
+============================================================
+ASK THE AUDIENCE LIFELINE USED!
+The audience votes:
+
+Option A: █████████ 18%
+Option B: █████ 10%
+Option C: █████████████████████████ 50%
+Option D: ███████████ 22%
+============================================================
+
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): C
+
+────────────────────────────────────────────────────────────────────────────────
+
+✓ CORRECT ANSWER!
+You've won: $200
+────────────────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════════════╗
+║         PRIZE LADDER                       ║
+╠════════════════════════════════════════════╣
+║ Level 15: $1,000,000      ✓ ║
+║ Level 14: $500,000          ║
+║ Level 13: $250,000          ║
+║ Level 12: $125,000          ║
+║ Level 11: $64,000           ║
+║ Level 10: $32,000         ✓ ║
+║ Level  9: $16,000           ║
+║ Level  8: $8,000            ║
+║ Level  7: $4,000            ║
+║ Level  6: $2,000            ║
+║ Level  5: $1,000          ✓ ║
+║ Level  4: $500              ║
+║ Level  3: $300              ║
+║ Level  2: $200              ║
+║ Level  1: $100              ║
+╚════════════════════════════════════════════╝
+
+
+════════════════════════════════════════════════════════════════════════════════
+                                   QUESTION 3
+════════════════════════════════════════════════════════════════════════════════
+
+Prize: $300
+
+
+Question: The Great Wall of China is visible from space.
+
+
+┌─────────────────────────────────────────┐
+│ Option T: True                            │
+│ Option F: False                           │
+└─────────────────────────────────────────┘
+
+Available Lifelines: Phone a Friend
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away):  LIFELINE
+
+Available lifelines:
+  1. Phone a Friend
+
+Enter lifeline number or name: 1
+
+============================================================
+PHONE A FRIEND LIFELINE USED!
+Your friend says: "Hmm, I think it might be T, but I'm not 100% sure..."
+============================================================
+
+
+Your answer (or 'LIFELINE' to use one, 'WALK' to walk away): T
+
+────────────────────────────────────────────────────────────────────────────────
+
+✗ WRONG ANSWER!
+You walk away with $0
+────────────────────────────────────────────────────────────────────────────────

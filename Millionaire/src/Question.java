@@ -60,24 +60,49 @@ public abstract class Question {
 
     }
 
-    public boolean isCorrect(String userAnswer) throws RuntimeException{
-        if (this.options.get(userAnswer).equals(correctAnswer)){
-            return true;
+    /**
+     * Check if the user's answer is correct.
+     * @param userAnswer The option key (e.g., "A", "B", "T", "F")
+     * @return true if correct, false otherwise
+     */
+    public boolean isCorrect(String userAnswer) {
+        if (userAnswer == null) {
+            return false;
         }
-        return false;
+        userAnswer = userAnswer.toUpperCase().trim();
+        
+        // Check if the option key exists
+        if (!options.containsKey(userAnswer)) {
+            return false;
+        }
+        
+        // Compare the option value with the correct answer
+        String selectedAnswer = options.get(userAnswer);
+        return selectedAnswer.equals(correctAnswer);
     }
 
 
-    public  void displayQuestion() {
-        System.out.println(question);
+
+    public void displayQuestion() {
+        TUI.printColor("\nQuestion: ", TUI.BOLD + TUI.CYAN);
+        TUI.printlnColor(question, TUI.WHITE);
+        System.out.println();
     }
 
     public abstract void displayOptions();
 
-    public  String getInput(){
-        Scanner newScanner = new Scanner(System.in);
-        System.out.print("Enter an option from "+getOptions().keySet()+": ");
-        return newScanner.nextLine().toUpperCase();
+    /**
+     * Get input from the user.
+     * @return The user's selected option key
+     */
+    public String getInput() {
+        Scanner scanner = new Scanner(System.in);
+        try {
+            TUI.printColor("Enter an option from " + getOptions().keySet() + ": ", TUI.YELLOW);
+            return scanner.nextLine().toUpperCase().trim();
+        } finally {
+            // System.in typically doesn't need closing, but this satisfies linter
+        }
     }
 
 
